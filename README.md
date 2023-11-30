@@ -5,7 +5,7 @@
 Bike theft is a prominent issue in Vancouver, with over 2,000 bikes stolen annually (VPD). The Vancouver Police Department partnered with Project 529 to implement a theft recovery and deterrent system, reportedly effective. Our study aims to statistically assess this effectiveness by comparing bike theft proportions in 2012 and 2022.
 
 ### Dataset
-We use the [VPD Crime Dataset](https://geodash.vpd.ca/opendata), spanning 2003 to 2023.
+We used the [VPD Crime Dataset](https://geodash.vpd.ca/opendata), spanning 2003 to 2023.
 
 
 ### References
